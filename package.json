@@ -1,0 +1,10 @@
+{
+  "name": "projeto-final",
+  "version": "1.0.0",
+  "description": "Ultimo projeto do modolo de HTML e CSS basico da Origamid",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Samuel Luna",
+  "license": "ISC"
+}
