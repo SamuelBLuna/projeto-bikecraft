@@ -28,10 +28,6 @@
     
 }
 
-.introducao h1 span {
-    color: var(--cor-p1);
-}
-
 .introducao p {
     margin-bottom: 20px;
 }
